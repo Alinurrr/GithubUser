@@ -6,7 +6,7 @@ Aplikasi ini di develop menggunakan kotlin
 Fitur aplikasi:
 <br>1. Search User = Pencarian user di github menggunakan API
 <br>2. Detail User = Menmpilkan informasi tentang user di github menggunakan API , informasi yang ditampilkan yaitu follower dan following
-<br>
+<hr>
 <h1>Nama : Ali Nur Rachman</h1>
-<br>
 <h2>NIM : 18.12.0743</h2>
+<hr>
